@@ -1,0 +1,31 @@
+logging:
+    level:
+        root: INFO
+
+server:
+    port: 8083
+
+spring:
+    application:
+        name: gu
+    data:
+        redis:
+            host: 192.168.0.55
+            port: 6379
+
+    websocket:
+        message-size: 81920
+
+    servlet:
+        multipart:
+            max-file-size: 10000MB
+            max-request-size: 10000MB
+            location: ${user.dir/uploads}
+
+app-config:
+    file-upload:
+        encoding-path: /encoding
+        download-path: /images
+        base-path: ${user.dir}
+        upload-folder: /
+        max-size: 20971520000
