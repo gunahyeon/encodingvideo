@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1819380-e30d-48c6-a509-4adcf408b599" name="Changes" comment="" />
+    <list default="true" id="f1819380-e30d-48c6-a509-4adcf408b599" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoding/main-video.webm" beforeDir="false" afterPath="$PROJECT_DIR$/encoding/main-video.webm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gu/encodingvideo/EncodingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gu/encodingvideo/EncodingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gu/encodingvideo/EncodingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gu/encodingvideo/EncodingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gu/encodingvideo/EncodingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gu/encodingvideo/EncodingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gu/encodingvideo/EncodingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gu/encodingvideo/EncodingService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +29,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,8 +59,9 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="app.teamhub.trackedBranches" value="" />
+    <property name="app.teamhub.trackedBranches" value="6kkidf/main" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="io.unthrottled.amii.config.ui.PluginSettingsUI" />
   </component>
@@ -89,12 +100,26 @@
       <updated>1714694268128</updated>
       <workItem from="1714694269516" duration="16352000" />
       <workItem from="1714714163094" duration="8450000" />
-      <workItem from="1714725922866" duration="384000" />
+      <workItem from="1714725922866" duration="622000" />
+      <workItem from="1715040302046" duration="17953000" />
+      <workItem from="1715126500324" duration="1144000" />
     </task>
+    <task id="LOCAL-00001" summary="encoding ...">
+      <created>1714726543122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714726543123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="encoding ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="encoding ..." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
