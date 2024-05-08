@@ -2,8 +2,6 @@ package com.gu.encodingvideo;
 
 import com.gu.encodingvideo.dto.ApiResponse;
 import com.gu.encodingvideo.dto.ApiResponseCode;
-import com.gu.encodingvideo.exception.BadRequestException;
-import com.gu.encodingvideo.exception.ErrorCode;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.AccessLevel;
